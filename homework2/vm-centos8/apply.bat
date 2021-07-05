@@ -1,0 +1,2 @@
+terraform apply  -no-color
+
